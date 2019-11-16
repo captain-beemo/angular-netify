@@ -12,6 +12,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 3.ngh
 ```
 
+## Deploy on Netify
+
+[Netlify Builder | Angular - YouTube](https://www.youtube.com/watch?v=_bkL-WQnLrE)
+
+```Text
+1.ng add @netlify-builder/deploy
+  app id
+  generate a personal access token
+2.ng run angular-test:deploy
+
+
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
