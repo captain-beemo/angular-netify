@@ -17,7 +17,9 @@ Click [here](https://peaceful-kalam-120b57.netlify.com/) to go to webisite
   app id
   generate a personal access token
   
-2.ng run angular-test:deploy
+2.ng run <project-name>:deploy
+example: ng run angular-netify:deploy
+  
 ```
 
 
