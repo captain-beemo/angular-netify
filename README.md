@@ -9,6 +9,8 @@
 
 ## Deploy on Netify
 
+[Welcome to Netlify | Netlify](https://app.netlify.com/)
+
 [Netlify Builder | Angular - YouTube](https://www.youtube.com/watch?v=_bkL-WQnLrE)
 
 ```Text
@@ -16,7 +18,7 @@
   app id
   generate a personal access token
   
-  
 2.ng run angular-test:deploy
-
 ```
+
+
