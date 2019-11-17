@@ -4,8 +4,7 @@
 
 * host angular app on netify
 
-## Link to the deployed webiste
-[AngularDeploymentTest](https://peaceful-kalam-120b57.netlify.com/)
+Click [here](https://peaceful-kalam-120b57.netlify.com/) to go to webisite
 
 ## Deploy on Netify
 
