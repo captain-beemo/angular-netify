@@ -1,7 +1,8 @@
 # Angular deployment test
 
-*Generate this angular app with angular-cli
-*host angular app on netify
+* Generate this angular app with angular-cli
+
+* host angular app on netify
 
 ## Link to the deployed webiste
 [AngularDeploymentTest](https://peaceful-kalam-120b57.netlify.com/)
