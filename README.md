@@ -15,7 +15,8 @@
 1.ng add @netlify-builder/deploy
   app id
   generate a personal access token
+  
+  
 2.ng run angular-test:deploy
-
 
 ```
